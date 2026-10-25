@@ -29,5 +29,9 @@ credentials.json
 # macOS
 .DS_Store
 
-# Tableau temporary files
+# Tableau temporary/lock files
 ~$*
+.~*
+
+# Presentation
+*.pptx
