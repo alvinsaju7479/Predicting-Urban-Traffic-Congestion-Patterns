@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+checkpoint/
+
+# Credentials and secrets
+credentials.json
+.env
+*.json
+
+# Machine learning models
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Datasets
+*.csv
+*.xlsx
+*.parquet
+
+# macOS
+.DS_Store
+
+# Tableau temporary files
+~$*
